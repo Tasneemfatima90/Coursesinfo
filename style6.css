@@ -1,0 +1,35 @@
+.body6 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f8f8f8;
+}
+
+.alumni-section {
+    padding: 50px 20px;
+    background-color: #fdf2f2;
+}
+
+.alumni-section h1 {
+    color: #333;
+    font-weight: bold;
+}
+
+.subtitle {
+    color: black;
+    margin-bottom: 30px;
+    font-size: 24px;
+}
+
+.logos-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.logos-container img {
+    max-height: 60px;
+    margin: 10px;
+}
